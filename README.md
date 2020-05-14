@@ -13,23 +13,23 @@ Using the [Fuel Consumption Dataset](https://www.kaggle.com/sarita19/fuel-consum
 
 Using the [Boston Housing Dataset](https://www.kaggle.com/c/boston-housing) you have to predict the value of prices of the house using the given features in the Dataset using <strong>Multiple Linear Regression</strong>.
 
-### Predicting Breast Cancer
+#### Predicting Breast Cancer
 
 Using the [Breast Cancer Dataset](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) you have to predict if the tumour is benign or malignant, using <strong>Logistic Regression</strong>.
 
-### Predicting Diabetes
+#### Predicting Diabetes
 
 Using the [PIMA Indians Diabetes Dataset](https://www.kaggle.com/uciml/pima-indians-diabetes-database) you have to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset, using <strong>Naive Bayes</strong>.
 
-### Hand-Written Digit Recognition using Artificial Neural Network
+#### Hand-Written Digit Recognition using Artificial Neural Network
 
 Using the [MNIST Dataset](https://www.kaggle.com/c/digit-recognizer) you have to develop an <strong>Artificial Neural Network</strong> to predict Hand-Written Digits.
 
-### Predicting the Gender of a Person
+#### Predicting the Gender of a Person
 
 Utilize <strong>Natural Language Processing</strong>, predict the Gender of a Person given their name. Use Natural Language Toolkit and the [Indian Names Dataset](https://www.kaggle.com/chaitanyapatil7/indian-names/version/1) to predict the Gender of a Person.
 
-### Classify the Image
+#### Classify the Image
 
 Use [CIFAR-10 Dataset](https://www.kaggle.com/c/cifar-10) to predict the class of the Object.
 

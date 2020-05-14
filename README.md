@@ -35,4 +35,4 @@ Use [CIFAR-10 Dataset](https://www.kaggle.com/c/cifar-10) to predict the class o
 
 ## Contributions
 
-Contributions are welcome. Refer to the [Issues](https://github.com/Microsoft-Club-SIST/machine-learning-projects/issues) for making Contributions.
+Contributions are welcome. Refer to the [Issues](https://github.com/Microsoft-Club-SIST/machine-learning-projects/issues) and [Contribution Guidelines](https://github.com/Microsoft-Club-SIST/machine-learning-projects/blob/master/CONTRIBUTING.md) for making the Projects.

@@ -11,9 +11,9 @@ import base64
 
 def clear_and_display_figure(fig, sleep=0.01):
     img_data = io.BytesIO()
-    fig.savefig(img_data, format='jpeg')
+    fig.savefig(img_data, format='png')
     img_data.seek(0)
-    uri = 'data:image/jpeg;base64,' + urllib.request.quote(base64.b64encode(img_data.getbuffer()))
+    uri = 'data:image/png;base64,' + urllib.request.quote(base64.b64encode(img_data.getbuffer()))
     img_data.close()
     clear_output(wait=True)
     display_html(HTML('<img src="' + uri + '">'))
